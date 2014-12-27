@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  enrollment_no: 1
+  student_name: MyString
+  dob: 2014-12-27 14:26:26
+  department: MyString
+
+two:
+  enrollment_no: 1
+  student_name: MyString
+  dob: 2014-12-27 14:26:26
+  department: MyString
